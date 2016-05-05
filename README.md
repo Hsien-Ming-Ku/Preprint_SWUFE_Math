@@ -1,3 +1,3 @@
-# Preprint-of-UESTC-Math-Sci-Comput
+# Preprint_UESTC_Math
 
 %This sssaaaa
