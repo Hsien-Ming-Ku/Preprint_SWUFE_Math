@@ -10,7 +10,7 @@
 
 % Version information:
 
-%  1. Version 1.0.0 (6 May, 2016, 13:40, the Netherlands, posted by Mr. Xian-Ming Gu)
+%  1. Version 1.0.0 (6 May, 2016, 13:40, the Netherlands, released by Mr. Xian-Ming Gu)
 
 %  2. ....... (to be updated, if necessary)
 
